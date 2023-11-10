@@ -11,3 +11,6 @@ Flask como framework web para Python.
 HTML/CSS para estruturar e estilizar a interface do usuário.
 JavaScript para adicionar interatividade ao front-end.
 API do TMDb para buscar dados dos filmes.
+
+(pip install Flask)
+
